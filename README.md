@@ -31,5 +31,25 @@ python + el nombre del documento dentro de "´.py" al final debera verse asi
 
 Aca veremos que el codigo se ejecuto correctamente.
 
-Proseguiremos a ejecitar el codigo en la terminal de windows 
+Proseguiremos a ejecitar el codigo en la terminal de windows, procedemos a entrar a la carpeta en donde guardamos el archivo y al lado le damos click derecho y lo abrimos en el terminal. Alli escribimos dir, este codigo se ejecutara y nos mostrara el directorio, ahi pondremos python + el nombre del archivo con su respectivo ".py". proseguiremos a ejecutarla.
+
+[![Captura-de-pantalla-2023-03-02-183439.png](https://i.postimg.cc/XY7mgsRr/Captura-de-pantalla-2023-03-02-183439.png)](https://postimg.cc/8j9ZpmPG)
+
+Luego procederemos a ejecutarlo en git bash, aquí tendremos que crear la ruta de donde esta ubicado el archivo entonces yo escribi el codigo "cd" y escribi primero 
+OneDrive luego repeti el cd pero con documentos, procedemos a escribir python + el nombre del archivo.
+
+
+[![Captura-de-pantalla-20230302-001024.png](https://i.postimg.cc/cJfzxPY5/Captura-de-pantalla-20230302-001024.png)](https://postimg.cc/VSLg4GKj)
+
+Por último ejecutaremos el codigo en "visual estudio code" y asi quedo:
+
+
+[![Captura-de-pantalla-8.png](https://i.postimg.cc/dQfjf4Z7/Captura-de-pantalla-8.png)](https://postimg.cc/nMvmjKkZ)
+
+Yaaaaaaa damos por terminado las pruebas a los programas en claseee
+
+
+
+
+
 
